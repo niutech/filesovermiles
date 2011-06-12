@@ -1,0 +1,3 @@
+This is the "Adobe AIR":http://get.adobe.com/air/ client for "Files Over Miles":http://www.filesovermiles.com, which offers sending files directly to other users by P2P using Flash.
+
+Download the latest "Files Over Miles AIR package":https://github.com/downloads/niutech/filesovermiles/FilesOverMiles.air
