@@ -5,14 +5,14 @@
 <title>FilesOverMiles</title>
 </head>
 <body style="font: 14px Arial, sans-serif; text-align: center;">
-<object type="application/x-shockwave-flash" width="100%" height="60%" data="receiver.swf">
+<object type="application/x-shockwave-flash" width="100%" height="80%" data="receiver.swf">
 	FilesOverMiles requires Flash Plugin.
 </object>
 <form action="index.html">
-	<p><input type="submit" value="Back to send file" /></p>
+	<input type="submit" value="Go back to send file" />
 </form>
 <script>
-	document.getElementsByTagName("object")[0].data="receiver.swf"+location.search;
+	console.log(document.getElementsByTagName("object")[0].data="receiver.swf?f="+location.search.substr(-32));
 </script>
 </body>
 </html>

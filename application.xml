@@ -61,7 +61,7 @@
 		<width>900</width>
 
 		<!-- The window's initial height. Optional. -->
-		<height>170</height>
+		<height>200</height>
 
 		<!-- The window's initial x position. Optional. -->
 		<x>50</x>
@@ -70,7 +70,7 @@
 		<y>50</y>
 
 		<!-- The window's minimum size, specified as a width/height pair, such as "400 200". Optional. -->
-		<minSize>700 170</minSize>
+		<minSize>700 200</minSize>
 
 		<!-- The window's initial maximum size, specified as a width/height pair, such as "1600 1200". Optional. -->
 		<maxSize>1600 1200</maxSize>
